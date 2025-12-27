@@ -1,4 +1,4 @@
-<img width="1181" height="501" alt="스크린샷 2025-12-27 오후 4 42 51" src="https://github.com/user-attachments/assets/fa352d4b-9085-4c52-9330-96865ad80ae8" /># 📚 DanielDB: 프리미엄 디지털 콘텐츠 마켓플레이스
+# 📚 DanielDB: 프리미엄 디지털 콘텐츠 마켓플레이스
 
 > **"단순한 구매를 넘어, 최상의 디지털 경험을 제공하는 고해상도 콘텐츠 플랫폼"**
 > 
@@ -80,8 +80,7 @@
 
 ### 📸 서비스 스크린샷
 
-![Uploading 스크린샷 2025-12-27 오후 4.42.51.png…]()
-![Uploading 스크린샷 2025-12-27 오후 4.43.21.png…]()
+<img width="1181" height="501" alt="스크린샷 2025-12-27 오후 4 42 51" src="https://github.com/user-attachments/assets/fa352d4b-9085-4c52-9330-96865ad80ae8" />
 <img width="484" height="522" alt="스크린샷 2025-12-27 오후 4 43 53" src="https://github.com/user-attachments/assets/f2f9cb57-0a09-4fad-b93a-c7db1d16d968" />
 <img width="1496" height="795" alt="스크린샷 2025-12-27 오후 4 45 46" src="https://github.com/user-attachments/assets/dfb02f86-79b6-4b88-b2f4-94fd45ccff61" />
 
